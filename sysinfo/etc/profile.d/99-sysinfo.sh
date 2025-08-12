@@ -1,1 +1,1 @@
-/sbin/sysinfo.sh
+/usr/bin/user_sysinfo.sh
